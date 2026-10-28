@@ -1,6 +1,6 @@
-- Im a Fullstack developer and Designer
-- Currently in my last semester of a bachelor in IT 
-- Pursuing a Master in informatics next
+- AI and Fullstack Developer
+- BSc Kristiania - Programming and Design
+- MSc OsloMet - Applied Artificial Intelligence
 - Reach me @ max.d.finanger@gmail.com
 
 <!---
